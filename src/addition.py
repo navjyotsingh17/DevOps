@@ -1,5 +1,5 @@
 # app.py
-# This is a test commit
+# This is a test commit to run github actions
 def add(a, b):
     return a + b
 
